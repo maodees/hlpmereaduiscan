@@ -1,4 +1,4 @@
-streamlit==1.22.0
+streamlit==1.18.0
 easyocr==1.7.0
 opencv-python==4.7.0.68
 pyzbar==0.1.8
